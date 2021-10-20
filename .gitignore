@@ -1,0 +1,3 @@
+*.o
+circbuf_storage_test
+testdata*
